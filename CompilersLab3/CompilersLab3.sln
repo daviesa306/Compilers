@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompilersLab3", "CompilersLab3\CompilersLab3.csproj", "{602589F3-A57A-4EC1-874F-7E7B0D66C011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.AbstractMachine", "..\..\CM4106 - Compilers\Labs\Triangle.NetCore.Student\Triangle.AbstractMachine\Triangle.AbstractMachine.csproj", "{1EDFCCC9-EA28-4FA2-9988-9E37C57DFEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.AbstractMachine.Disassembler", "..\..\CM4106 - Compilers\Labs\Triangle.NetCore.Student\Triangle.AbstractMachine.Disassembler\Triangle.AbstractMachine.Disassembler.csproj", "{819D6025-2E44-44F2-A85B-4C54E130701F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.AbstractMachine.Interpreter", "..\..\CM4106 - Compilers\Labs\Triangle.NetCore.Student\Triangle.AbstractMachine.Interpreter\Triangle.AbstractMachine.Interpreter.csproj", "{E29EBD88-E8EC-48B4-829C-896A86130FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle.Compiler", "..\..\CM4106 - Compilers\Labs\Triangle.NetCore.Student\Triangle.Compiler\Triangle.Compiler.csproj", "{78647A0E-D9B4-48B0-B443-23E08548B065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602589F3-A57A-4EC1-874F-7E7B0D66C011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602589F3-A57A-4EC1-874F-7E7B0D66C011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602589F3-A57A-4EC1-874F-7E7B0D66C011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602589F3-A57A-4EC1-874F-7E7B0D66C011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDFCCC9-EA28-4FA2-9988-9E37C57DFEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDFCCC9-EA28-4FA2-9988-9E37C57DFEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDFCCC9-EA28-4FA2-9988-9E37C57DFEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDFCCC9-EA28-4FA2-9988-9E37C57DFEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819D6025-2E44-44F2-A85B-4C54E130701F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819D6025-2E44-44F2-A85B-4C54E130701F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819D6025-2E44-44F2-A85B-4C54E130701F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819D6025-2E44-44F2-A85B-4C54E130701F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29EBD88-E8EC-48B4-829C-896A86130FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29EBD88-E8EC-48B4-829C-896A86130FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29EBD88-E8EC-48B4-829C-896A86130FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29EBD88-E8EC-48B4-829C-896A86130FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78647A0E-D9B4-48B0-B443-23E08548B065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78647A0E-D9B4-48B0-B443-23E08548B065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78647A0E-D9B4-48B0-B443-23E08548B065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78647A0E-D9B4-48B0-B443-23E08548B065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
